@@ -11,7 +11,7 @@
 	}
 	#instagram {
 		position: absolute;
-		overflow: visible;
+		overflow: hidden;
 		width: 280px;
 		height: 626px;
 		left: 48px;
