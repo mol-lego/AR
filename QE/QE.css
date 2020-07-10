@@ -35,7 +35,7 @@
 	}
 	#QEdetail {
 		left: 48px;
-		top: 556px;
+		top: 570px;
 		position: absolute;
 		overflow: visible;
 		width: 281px;
@@ -82,7 +82,7 @@
 	#Youtube_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 5px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -100,7 +100,7 @@
 	#ID2020_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 5px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -118,7 +118,7 @@
 	#detail_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 5px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -218,7 +218,7 @@
 	#QE_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 5px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -282,7 +282,7 @@
 	#instagram_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 5px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -364,7 +364,7 @@
 		position: absolute;
 		width: 409px;
 		height: 497.375px;
-		left: 140.304px;
+		left: 128px;
 		top: 2180px;
 		overflow: visible;
 	}
@@ -386,7 +386,7 @@
 	}
 	#QEdetail {
 		left: 140px;
-		top: 1580.929px;
+		top: 1587.929px;
 		position: absolute;
 		overflow: visible;
 		width: 1001px;
@@ -401,8 +401,8 @@
 	#instagram {
 		position: absolute;
 		width: 407px;
-		height: 660.227px;
-		left: 640px;
+		height: 665px;
+		left: 660px;
 		top: 2189.929px;
 		overflow: visible;
 	}
@@ -515,7 +515,7 @@
 	#QE_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 2px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -533,7 +533,7 @@
 	#Youtube_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 2px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -548,16 +548,16 @@
 		top: 1540.929px;
 		transform: matrix(1,0,0,1,0,0);
 	}
-	#_40 {
+	#detail_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 2px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
 		shape-rendering: auto;
 	}
-	._40 {
+	.detail_u {
 		overflow: visible;
 		position: absolute;
 		width: 1078px;
@@ -569,7 +569,7 @@
 	#ID2020_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 2px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -666,7 +666,7 @@
 	#instagram_u {
 		fill: transparent;
 		stroke: rgba(60,190,200,1);
-		stroke-width: 1px;
+		stroke-width: 2px;
 		stroke-linejoin: miter;
 		stroke-linecap: butt;
 		stroke-miterlimit: 4;
@@ -685,7 +685,7 @@
 		position: absolute;
 		width: 500px;
 		height: 143.739px;
-		left: 150px;
+		left: 101px;
 		top: 2950px;
 		overflow: visible;
 		cursor: pointer;
@@ -694,7 +694,7 @@
 		position: absolute;
 		width: 500px;
 		height: 336.199px;
-		left: 540px;
+		left: 640px;
 		top: 2950px;
 		overflow: visible;
 		cursor: pointer;
